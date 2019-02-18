@@ -6,7 +6,8 @@ Sufferming Weekly News
 |發行|周次|
 |--|--|
 |新春創刊號|[2/4~2/10](#20190204)|
-|  |  |
+|第2號|[2/11~2/17](#20190211)|
+|  |  |  |
 
 > 讀報大綱：
 > - A 政治 *8
@@ -64,3 +65,36 @@ Daily model
 |  |C4生醫健康|  |
 |  |  |[狂人普丁討厭菸 直接下令：2015後出生的終生禁買](https://moptt.tw/p/Gossiping.M.1549763931.A.9C5?fbclid=IwAR2xC_-vPcPL_Yel7dsrPt0q-dIyEcicRVE9VJBAfWWQJnCybibXRyLN4Jg)|
 |D教育|  |  |
+
+---
+
+<h2 id="20190211">2/11~2/17</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[南非證實擁有油田 10億桶原油儲量改寫全球石油版圖](https://moptt.tw/p/Gossiping.M.1550059487.A.7A2)|
+|  |  |[全國大罷工！比利時宣布關閉領空24小時](https://moptt.tw/p/Gossiping.M.1550025108.A.CBE)|
+|  |  |[自來水管流出石油…伊拉克貧民窟居民大怒](https://moptt.tw/p/Gossiping.M.1550184225.A.101)|
+|A2|美中新聞|  |
+|  |  |[中國騰訊砸46億入股「Reddit」](https://moptt.tw/p/Gossiping.M.1550018137.A.79E)|
+|  |  |[NASA：地球比20年前更綠 中國印度綠地增加最多](https://moptt.tw/p/Gossiping.M.1550233402.A.FEA)|
+|  |  |[中共元老李銳逝世女兒:不接受中共旗子蓋在](https://moptt.tw/p/Gossiping.M.1550364762.A.CC3)|
+|A3|臺灣新聞|  |
+|  |  |[高房租比高房價更可怕！柯文哲擬課「空屋稅」打貪婪房東](https://moptt.tw/p/Gossiping.M.1550156131.A.9C4)|
+|  |  |[「我不是看護，我是另一半」 相差51歲台英同性爺孫 苗栗完婚](https://moptt.tw/p/Gossiping.M.1550190914.A.BB9)|
+|B財金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[研究：人意識來自宇宙腦細胞聯繫超過三維](https://moptt.tw/p/Gossiping.M.1550241624.A.3A5)|
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[山東狂人養10億隻蟑螂吃廚餘 還設超難關卡「防越獄」](https://moptt.tw/p/Gossiping.M.1550288444.A.B1A)|
+|D教育|  |  |
+|  |  |[作業寫不完！學生買「寫字機器人」幫忙 家長氣炸砸爛](https://www.ptt.cc/bbs/Gossiping/M.1550369425.A.8BE.html)|
+
+---
+
+<h2 id="20190218">2/18~2/24</h2>
