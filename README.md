@@ -114,7 +114,6 @@ Daily model
 |  |  |[又失言？柯Ｐ：對不運動抽菸喝酒者 健保費應提高](https://moptt.tw/p/Gossiping.M.1550576601.A.240)|
 |  |  |[才半年！公務人員年改已省60億](https://moptt.tw/p/Gossiping.M.1550795246.A.324?fbclid=IwAR0yyE4D93mkcXAr4WqhIwWywC0zkGfPNrhcClN3LynPkduzPfrQsbVV5f0)|
 |  |  |[假訊息傷害民主 蔡總統：已與他國談合作遏止](https://moptt.tw/p/Gossiping.M.1550850952.A.8BC)|
-|  |  |[終結放榜造神](https://www.upmedia.mg/news_info.php?SerialNo=58142)|
 |B財金|  |  |
 |C科學|  |  |
 |  |C1物理|  |
@@ -124,7 +123,9 @@ Daily model
 |  |  |[WinRAR含有超過10年的重大漏洞，5億用戶恐遭波及](https://moptt.tw/p/Gossiping.M.1550756439.A.D64)|
 |  |C4生醫健康|  |
 |  |  |[殺手T細胞可對抗所有流感](https://moptt.tw/p/Gossiping.M.1550532604.A.0A5)|
+|  |  |[破解致死率100%病毒 台學者掀養殖業革命](https://moptt.tw/p/Gossiping.M.1551009760.A.723)|
 |D教育|  |  |
+|  |  |[終結放榜造神](https://www.upmedia.mg/news_info.php?SerialNo=58142)|
 
 ---
 
