@@ -7,6 +7,7 @@ Sufferming Weekly News
 |--|--|
 |新春創刊號|[2/4~2/10](#20190204)|
 |第2號|[2/11~2/17](#20190211)|
+|第3號|[2/18~2/24](#20190218)|
 |  |  |  |
 
 > 讀報大綱：
@@ -98,3 +99,33 @@ Daily model
 ---
 
 <h2 id="20190218">2/18~2/24</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[香奈兒「老佛爺」拉格斐傳出辭世享壽85歲](https://moptt.tw/p/Gossiping.M.1550577724.A.0EE)|
+|  |  |[日本收集近 4.8 萬噸電子垃圾，2020 奧運獎牌將全由回收金屬製作！](https://www.inside.com.tw/article/15542-2020-olympic-medals-phones-project-success)|
+|  |  |[國產遊戲《還願》藏彩蛋](https://www.upmedia.mg/news_info.php?SerialNo=58161)|
+|A2|美中新聞|  |
+|  |  |[學者：要和平，中國宣布放棄犯台就好](https://moptt.tw/p/Gossiping.M.1550757413.A.54A)|
+|A3|臺灣新聞|  |
+|  |  |[台灣燈會Intel無人機璀燦照亮大鵬灣](https://moptt.tw/p/Gossiping.M.1550558285.A.2FF)|
+|  |  |[又失言？柯Ｐ：對不運動抽菸喝酒者 健保費應提高](https://moptt.tw/p/Gossiping.M.1550576601.A.240)|
+|  |  |[才半年！公務人員年改已省60億](https://moptt.tw/p/Gossiping.M.1550795246.A.324?fbclid=IwAR0yyE4D93mkcXAr4WqhIwWywC0zkGfPNrhcClN3LynPkduzPfrQsbVV5f0)|
+|  |  |[假訊息傷害民主 蔡總統：已與他國談合作遏止](https://moptt.tw/p/Gossiping.M.1550850952.A.8BC)|
+|  |  |[終結放榜造神](https://www.upmedia.mg/news_info.php?SerialNo=58142)|
+|B財金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[科學家發現地球救星「吃塑膠蟲」](https://www.omgtw.com/article/67196)|
+|  |C3工程(軟)|  |
+|  |  |[WinRAR含有超過10年的重大漏洞，5億用戶恐遭波及](https://moptt.tw/p/Gossiping.M.1550756439.A.D64)|
+|  |C4生醫健康|  |
+|  |  |[殺手T細胞可對抗所有流感](https://moptt.tw/p/Gossiping.M.1550532604.A.0A5)|
+|D教育|  |  |
+
+---
+
+<h2 id="20190225">2/25~3/3</h2>
