@@ -178,7 +178,7 @@ Weekly model
 |  |  |[華為要告美國政府](https://moptt.tw/p/Gossiping.M.1551927095.A.742)|
 |  |  |[川普獅子大開口！不只要盟邦負擔美軍軍費 還要賺50％](https://moptt.tw/p/Gossiping.M.1552101224.A.93B)|
 |A3|臺灣新聞|  |
-[柯文哲國際發言失言統整大全集](https://moptt.tw/p/Gossiping.M.1552120550.A.3D8)
+|  |  |[柯文哲國際發言失言統整大全集](https://moptt.tw/p/Gossiping.M.1552120550.A.3D8)|
 |B財金|  |  |
 |C科學|  |  |
 |  |C1物理|  |
