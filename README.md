@@ -9,6 +9,7 @@ Sufferming Weekly News
 |第2號|[2/11~2/17](#20190211)|
 |第3號|[2/18~2/24](#20190218)|
 |第4號|[2/25~3/3](#20190225)|
+|第5號|[3/4~3/10](#20190304)|
 
 > 讀報大綱：
 > - A 政治 *8
@@ -163,3 +164,34 @@ Weekly model
 ---
 
 <h2 id="20190304">3/4~3/10</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[www全球資訊網30歲柏內茲李：系統已遭惡棍挾持！](https://moptt.tw/p/Gossiping.M.1551710846.A.204)|
+|  |  |[金正恩急了！報告：進出口全面暴跌 北韓經濟已崩盤邊緣](https://moptt.tw/p/Gossiping.M.1551771366.A.40A)|
+|  |  |[首爾破紀錄空汙：文在寅指控「中國霧霾外送南韓」](https://moptt.tw/p/Gossiping.M.1552020092.A.375)|
+|  |  |[收保護費！南韓1.04兆韓圜支付美駐軍費用](https://moptt.tw/p/Gossiping.M.1552135071.A.B4B)|
+|A2|美中新聞|  |
+|  |  |[手段宛若IS！中國炸毀全球最高「滴水觀音」像](https://moptt.tw/p/Gossiping.M.1551654335.A.31F)|
+|  |  |[華為要告美國政府](https://moptt.tw/p/Gossiping.M.1551927095.A.742)|
+|  |  |[川普獅子大開口！不只要盟邦負擔美軍軍費 還要賺50％](https://moptt.tw/p/Gossiping.M.1552101224.A.93B)|
+|A3|臺灣新聞|  |
+[柯文哲國際發言失言統整大全集](https://moptt.tw/p/Gossiping.M.1552120550.A.3D8)
+|B財金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[克服暗物質障礙 人類首次精確量出「銀河系的體重」](https://moptt.tw/p/Gossiping.M.1552120069.A.8D3)|
+|  |C2工程(硬)|  |
+|  |  |[USB插孔也要被Type-C取代？傳輸技術新標準USB 4.0即將問世](https://www.bnext.com.tw/article/52445/usb4-unveiled-with-same-standard-with-thunderbolt3?utm_source=line&utm_medium=message-3-1&utm_campaign=52445&utm_content=201903051317)|
+|  |C3工程(軟)|  |
+|  |  |[個資恐被看光光 杜奕瑾：別用中國 APP 和設備](https://moptt.tw/p/Gossiping.M.1551714501.A.0A7)|
+|  |C4生醫健康|  |
+|  |  |[全球第二例 倫敦愛滋病毒帶原者治癒](https://moptt.tw/p/Gossiping.M.1551754737.A.2FA?fbclid=IwAR1cjZMpVVqm95qymWqhxWfbs8YJ-BQIA6xHZw7PFzdtBjQ3cS-3POC4WIw)|
+|D教育|  |  |
+|  |  |[高中師：備審資料太完美 不一定會受青睞](https://moptt.tw/p/Gossiping.M.1551755608.A.B28)|
+
+---
+
+<h2 id="20190304">3/11~3/17</h2>
