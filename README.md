@@ -10,6 +10,7 @@ Sufferming Weekly News
 |第3號|[2/18~2/24](#20190218)|
 |第4號|[2/25~3/3](#20190225)|
 |第5號|[3/4~3/10](#20190304)|
+|第6號|[3/11~3/17](#20190311)|
 
 > 讀報大綱：
 > - A 政治 *8
@@ -194,4 +195,37 @@ Weekly model
 
 ---
 
-<h2 id="20190304">3/11~3/17</h2>
+<h2 id="20190311">3/11~3/17</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[英19歲IS聖戰新娘想回家 遭英政府剝奪國](https://moptt.tw/p/Gossiping.M.1552201526.A.7EB)|
+|  |  |[李世石隱退發言背後：我累了 找不到探索感覺](https://moptt.tw/p/Gossiping.M.1552234045.A.0D3?fbclid=IwAR1mFoRz_E_ebisRtGUSSecs8oqX3BTaG_RCZuYe7TDv4U0E_QK9fHL7HU0)|
+|  |  |[80%污水輻射超標 核災處理需22.5兆元](https://moptt.tw/p/Gossiping.M.1552276115.A.4B3)|
+|  |  |[韓國勝利與性招待、迷姦偷拍、行賄警政高層懶人包](https://moptt.tw/p/Gossiping.M.1552589552.A.534)|
+|  |  |[不滿中國挺恐攻首腦！ 印媒：別再對台灣議題過度謹慎](https://moptt.tw/p/Gossiping.M.1552703925.A.A9F)|
+|A2|美中新聞|  |
+|  |  |[美媒：憂川普離場太丟臉 習近平已取消川習會](https://moptt.tw/p/Gossiping.M.1552197458.A.BD7)|
+|A3|臺灣新聞|  |
+|  |  |[柯文哲訪美台僑卻拒不接待，全美台灣同鄉會列9大證明批「投機政客」](https://moptt.tw/p/Gossiping.M.1552195833.A.280)|
+|  |  |[《台灣關係法》40週年 美國會議員跨黨派發聲挺台](https://moptt.tw/p/Gossiping.M.1552282720.A.FA5)|
+|  |  |[農地大浩劫 全球最貴 政府放任 良田流失 《蘋果》獨家 12萬筆交易揭露炒作真相](https://moptt.tw/p/Gossiping.M.1552350793.A.FCC?fbclid=IwAR1xDiFbzVTo13nYHFstMycV2gvEVKvsVD9x1nCu3zrIbmZ0-4gO2IA44fs)|
+|  |  |[房地產放貸破準備破七兆](https://moptt.tw/p/Gossiping.M.1552373578.A.A74)|
+|  |  |[陳其邁：盼人工智慧學校南部分校成為高雄產業創新升級的火車頭](https://moptt.tw/p/Gossiping.M.1552713924.A.7BA)|
+|B財金|  |  |
+|  |  |[年輕人不買房 過來人：20年內就後悔](https://moptt.tw/p/Gossiping.M.1552209549.A.D6B)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[新發現表明:普通聲波具有負引力質量](https://moptt.tw/p/Gossiping.M.1552325790.A.12F)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[世界僅南極洲獨有 學者首次親眼目睹「D型殺人鯨」](https://moptt.tw/p/Gossiping.M.1552224384.A.975)|
+|  |  |[哈佛大學研究「廢物特質」 這9個你中了幾項？](https://moptt.tw/p/Gossiping.M.1552381185.A.934)|
+
+---
+
+<h2 id="20190318">3/18~3/24</h2>
