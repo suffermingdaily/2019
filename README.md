@@ -11,6 +11,9 @@ Sufferming Weekly News
 |第4號|[2/25~3/3](#20190225)|
 |第5號|[3/4~3/10](#20190304)|
 |第6號|[3/11~3/17](#20190311)|
+|第7號|[3/18~3/24](#20190318)|
+
+
 
 > 讀報大綱：
 > - A 政治 *8
@@ -229,3 +232,35 @@ Weekly model
 ---
 
 <h2 id="20190318">3/18~3/24</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[矽谷驚天大騙局！女富豪骯髒手段震驚全美](https://www.storm.mg/lifestyle/940097)|
+|  |  |[IS最後據點被解放 「哈里發國」正式宣告滅亡！](https://moptt.tw/p/Gossiping.M.1553256823.A.F35)|
+|  |  |[確定了！東京成告別戰 一朗賽後宣布退休](https://moptt.tw/p/Baseball.M.1553165605.A.615?fbclid=IwAR1i8eDB0CZQa7UCSqM7xCGumyVPYH_gkaZ1S-f7FGNQXosGEd9yCH_KpJ8)|
+|  |  |[東歐抱怨一帶一路 怨「有陸貨沒陸資」](https://moptt.tw/p/Gossiping.M.1553086816.A.67A)|
+|A2|美中新聞|  |
+|A3|臺灣新聞|  |
+|  |  |[柯文哲訪重量級智庫卜睿哲 葛來儀親自接待](https://moptt.tw/p/Gossiping.M.1553007509.A.B79)|
+|  |  |[憂鬱症常用藥 百憂解4月全面退出台灣市場](https://moptt.tw/p/Gossiping.M.1552887058.A.3DD)|
+|  |  |[最強抗生素泰寧注射劑要退出台灣](https://moptt.tw/p/Gossiping.M.1553090347.A.DF1)|
+|  |  |[高房價難解 學者嘆：想致富要學會怎麼躺著](https://moptt.tw/p/Gossiping.M.1553351886.A.0B5)|
+|  |  |[日語超夯！ 台灣每年報考逾8萬 世界第3](https://moptt.tw/p/Gossiping.M.1553253860.A.221)|
+|  |  |[蔡英文：就是我](https://moptt.tw/p/Gossiping.M.1553176779.A.93A)|
+|  |  |[立委審酒駕全跑光！黃國昌直播怒批打假球](https://moptt.tw/p/Gossiping.M.1552971597.A.2B1)|
+|B財金|  |  |
+|  |  |[騰訊史上最大幹部裁員 砍10%中階管理職](https://moptt.tw/p/Gossiping.M.1552986229.A.D8C)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[量子摩爾定律問世：量子體積每年翻倍，10年內實現量子霸權](https://www.bnext.com.tw/article/52523/ibm-quantum-volume?utm_source=line&utm_medium=message-3-3&utm_campaign=52523&utm_content=201903111802)|
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[腎臟剖開...暴嵌「乳白玉米粒」！](https://moptt.tw/p/Gossiping.M.1553088729.A.EA1)|
+|D教育|  |  |
+|  |  |[留不住人才！建中一年18%學生出走…管中閔：可怕的警訊](https://moptt.tw/p/Gossiping.M.1553353872.A.A31)|
+
+---
+<h2 id="20190325">3/25~3/31</h2>
