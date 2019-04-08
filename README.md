@@ -12,6 +12,8 @@ Sufferming Weekly News
 |第5號|[3/4~3/10](#20190304)|
 |第6號|[3/11~3/17](#20190311)|
 |第7號|[3/18~3/24](#20190318)|
+|第8號|[3/25~3/31](#20190325)|
+|第9號|[4/1/~4/7](#20190401)|
 
 
 
@@ -264,3 +266,58 @@ Weekly model
 
 ---
 <h2 id="20190325">3/25~3/31</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[法國部長愛貓取名「脫歐」因為牠總是喵喵](https://moptt.tw/p/Gossiping.M.1553431170.A.7C3)|
+|  |  |[德國反一帶一路 警告義：將嘗苦果](https://moptt.tw/p/Gossiping.M.1553587603.A.1A8)|
+|  |  |[迎接AI世代，2020年日本小五強制上程式課](https://moptt.tw/p/Gossiping.M.1553658958.A.F7D)|
+|  |  |[英國脫歐計畫 議會投票結果出爐-全滅](https://moptt.tw/p/Gossiping.M.1553730023.A.148)|
+|  |  |[引爆俄羅斯全國反中 俄法院：中國在貝加爾湖蓋廠違法](https://moptt.tw/p/Gossiping.M.1553752762.A.A6C)|
+|A2|美中新聞|  |
+|  |  |[川普簽署法令 承認以色列擁有戈蘭高地](https://moptt.tw/p/Gossiping.M.1553534794.A.BD9?fbclid=IwAR3VU5kWNEuHNC26_KeO4w1vFq5KBwM_b3HMBSLYF_OCupSiy4JHsWFdexg)|
+|  |  |[中國將在2020實施「社會信用系統」](https://moptt.tw/p/Gossiping.M.1553713528.A.DA1)|
+|  |  |[「是承認台灣是主權國家時候了」 美參眾議員齊聲挺台](https://moptt.tw/p/Gossiping.M.1553760706.A.E6E)|
+|A3|臺灣新聞|  |
+|  |  |[少子化嚴重！2019全球出生率排名 台灣吊車尾](https://moptt.tw/p/Gossiping.M.1553415669.A.4CF?fbclid=IwAR3rstp0dJ0FtZd3lSHhftptdp-Q5xpndp0bSnsB4lntZ2USV9cCawazgs8)|
+|  |  |[合校意向書通過,將改為"國立陽明交通大學"](https://moptt.tw/p/Gossiping.M.1553678886.A.ECD?fbclid=IwAR2pbiRKOh_x2hwMigQS9gPxtKVfeqwS1icX6N-So9goa5ECsoUTnmjxNPE)|
+|  |  |[兩岸政治協商門檻擬比照修憲 國家主權禁談判](https://moptt.tw/p/Gossiping.M.1553761519.A.19)|
+|B財金|  |  |
+|  |  |[Apple Card十大功能太狂 蘋果打趴市面上信用卡](https://moptt.tw/p/Gossiping.M.1553919920.A.5ED)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |  |[為什麼只有C語言？A B語言呢？](https://moptt.tw/p/Gossiping.M.1553811543.A.137)|
+|  |C4生醫健康|  |
+|  |  |[日本科學家製造出迷你版「人造牛排」](https://moptt.tw/p/Gossiping.M.1553411488.A.2AC?fbclid=IwAR3qOBzVs2AFJcYs1_oBlJnLTEI4ZgurYKxSpC-8c5Q7MOO-z43RSA4eObk)|
+|  |  |[英七旬婦對痛覺無感 發現兩種突變基因](https://moptt.tw/p/Gossiping.M.1553869381.A.9B6)|
+|D教育|  |  |
+|  |  |[4歲女童喊「叭噗痛」 外婆一問原因心碎了…](https://moptt.tw/p/Gossiping.M.1553413492.A.336?fbclid=IwAR3ALfOWpNpH1-F0rJLZWH2VHInWxCjE8h-HPzNntMtCFJcyQFEeW5LcYxM)|
+
+---
+
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[日本新年號](https://moptt.tw/p/Gossiping.M.1554086507.A.B9F)|
+|A2|美中新聞|  |
+|  |  |[華為再遭打擊 麻省理工等國際名校齊下封殺令](https://moptt.tw/p/Gossiping.M.1554379041.A.2F2)|
+|  |  |[專家警告：中國用新技術製假地圖 擾亂各國](https://moptt.tw/p/Gossiping.M.1554352977.A.C2A)|
+|A3|臺灣新聞|  |
+|  |  |[不敢生變沒人可生 一張表看台灣人口危機](https://moptt.tw/p/Gossiping.M.1554394827.A.C2B)|
+|  |  |[台灣出現人口負成長啦](https://moptt.tw/p/Gossiping.M.1554607758.A.A40)|
+|B財金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+
+---
+<h2 id="20190408">4/8~4/14</h2>
