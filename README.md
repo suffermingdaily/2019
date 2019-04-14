@@ -14,7 +14,7 @@ Sufferming Weekly News
 |第7號|[3/18~3/24](#20190318)|
 |第8號|[3/25~3/31](#20190325)|
 |第9號|[4/1/~4/7](#20190401)|
-
+|第10號|[4/8/~4/14](#20190408)|
 
 
 > 讀報大綱：
@@ -22,13 +22,14 @@ Sufferming Weekly News
 >   * A1: 國際新聞
 >   * A2: 美中新聞
 >   * A3: 臺灣新聞
-> - B 財金 *0~1
+> - B 企業 *0~1
 > - C 科學 *2~4
 >   * C1: 物理
 >   * C2: 工程(硬)
 >   * C3: 工程(軟)
 >   * C4: 生醫健康
 > - D 教育 *0~1
+> % 2019/4/14 改財金版為企業版
 
 Weekly model
 `
@@ -321,3 +322,37 @@ Weekly model
 
 ---
 <h2 id="20190408">4/8~4/14</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[緩解稀土供應疑慮，美學者找到新永久磁鐵](https://moptt.tw/p/Gossiping.M.1554950069.A.DD6)|
+|  |  |[中國員工竊密！這次受害者是艾司摩爾](https://moptt.tw/p/Gossiping.M.1554972368.A.F0D)|
+|  |  |[SpaceX 重型獵鷹火箭要首次商業發射啦!](https://moptt.tw/p/Gossiping.M.1555020174.A.68B)|
+|A2|美中新聞|  |
+|  |  |[清華學生舉報老師「反黨違憲」，告密之風引中國文革憂慮](https://moptt.tw/p/Gossiping.M.1554648645.A.983)|
+|  |  |[美眾院通過《2019台灣保證法》外交部 : 表現對我強勁支持](https://moptt.tw/p/Gossiping.M.1554871410.A.389)|
+|A3|臺灣新聞|  |
+|  |  |[中國買粉專！眼球中央電視台被開價70萬 網軍「1人2元」激怒粉絲](https://moptt.tw/p/Gossiping.M.1554719610.A.5CF)|
+|  |  |[瑞典最新調查:台灣受假新聞危害程度世界第一](https://moptt.tw/p/Gossiping.M.1554868034.A.C46)|
+|  |  |[AIT主席莫健：蔡英文是務實且現實的領袖](https://moptt.tw/p/Gossiping.M.1554950329.A.B76)|
+|  |  |[不應被排除在外！繼美英之後 歐盟表態挺台參與WHA](https://moptt.tw/p/Gossiping.M.1555039363.A.06F)|
+|  |  |[Trading Economics 台灣總經數據](https://moptt.tw/p/Gossiping.M.1555081522.A.F1A)|
+|  |  |[彭博調查：台北人要工作20.4分鐘 才能賺到一頓早餐](https://moptt.tw/p/Gossiping.M.1555162614.A.C57)|
+|B企業|  |  |
+|  |  |[台商回台投資4個月破1200億！](https://moptt.tw/p/Gossiping.M.1555154031.A.52D)|
+|  |  |[從大麥克邁向大數據，麥當勞要用AI重塑得來速](https://www.bnext.com.tw/article/52761/mcdonald-machine-learning?utm_source=line&utm_medium=message-1-1&utm_campaign=52761&utm_content=201903281828)|
+|  |  |[咖啡巨人碰上大危機，星巴克如何靠一張王牌絕地重返？](https://www.bnext.com.tw/article/52724/starbucks-and-loyal-customers-1?utm_source=line&utm_medium=message&utm_content=20190330)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[到黑洞裡面還會活著嗎](https://moptt.tw/p/Gossiping.M.1554997226.A.BCE)|
+|  |C2工程(硬)|  |
+|  |  |[台積電全球首座 5 奈米晶圓廠完工！](https://moptt.tw/p/Gossiping.M.1554875279.A.E70)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[到太空待340天「DNA永久突變」](https://moptt.tw/p/Gossiping.M.1555047619.A.AFA)|
+|D教育|  |  |
+
+---
+<h2 id="20190415">4/15~4/21</h2>
