@@ -14,8 +14,9 @@ Sufferming Weekly News
 |第7號|[3/18~3/24](#20190318)|
 |第8號|[3/25~3/31](#20190325)|
 |第9號|[4/1/~4/7](#20190401)|
-|第10號|[4/8/~4/14](#20190408)|
-
+|第10號|[4/8~4/14](#20190408)|
+|第11號|[4/15/~4/21](#20190415)|
+|第12號|[4/22~4/28](#20190422)|
 
 > 讀報大綱：
 > - A 政治 *8
@@ -39,13 +40,15 @@ Weekly model
 |A1|國際新聞|  |
 |A2|美中新聞|  |
 |A3|臺灣新聞|  |
-|B財金|  |  |
+|B企業|  |  |
 |C科學|  |  |
 |  |C1物理|  |
 |  |C2工程(硬)|  |
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
 |D教育|  |  |
+
+#4/8-B版從財金改為企業
 `
 
 <h2 id="20190204">2/4~2/10</h2>
@@ -356,3 +359,60 @@ Weekly model
 
 ---
 <h2 id="20190415">4/15~4/21</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[全球最貴138億名畫 驚爆是3萬元贗品](https://moptt.tw/p/Gossiping.M.1555294832.A.B9E)|
+|  |  |[19歲日本女孩登上珠峰 20歲成大滿貫探險家](https://moptt.tw/p/Gossiping.M.1555422202.A.D79)|
+|  |  |[Leica萊卡致敬六四勇士的影片被下架了!](https://moptt.tw/p/Gossiping.M.1555762574.A.1EE)|
+|A2|美中新聞|  |
+|  |  |[川普欲送移民到庇護城市 白宮證實正在研議方法](https://moptt.tw/p/Gossiping.M.1555283324.A.5AA)|
+|  |  |[亞馬遜將在7/18停止中國電商營運](https://moptt.tw/p/Gossiping.M.1555590604.A.BA8)|
+|  |  |[美中貿易戰最新進度，美國即將收網](https://moptt.tw/p/Gossiping.M.1555770597.A.938)|
+|A3|臺灣新聞|  |
+|  |  |[台美慶40年友誼 台北101外牆連3晚秀特別訊息](https://moptt.tw/p/Gossiping.M.1555344026.A.5EB)|
+|  |  |[扁恢復快？醫解釋：他腦袋只好了政治這塊](https://moptt.tw/p/Gossiping.M.1555426469.A.236)|
+|  |  |[臺灣如果滅了有辦法像以色列那樣復國嗎?](https://moptt.tw/p/Gossiping.M.1555505220.A.221)|
+|  |  |[郭台銘要選總統 路透：蘋果CEO庫克致電關切](https://moptt.tw/p/Gossiping.M.1555536116.A.6AA)|
+|B企業|  |  |
+|  |  |[亞馬遜將在7/18停止中國電商營運](https://moptt.tw/p/Gossiping.M.1555590604.A.BA8)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[科學家研發新量子材料 可從雲端下載大腦](https://moptt.tw/p/Gossiping.M.1555425338.A.A29)|
+|  |C2工程(硬)|  |
+|  |  |[不再為雨天所苦！中央大學團隊研發室內太陽能電池](https://moptt.tw/p/Gossiping.M.1555479514.A.680?fbclid=IwAR0Mbmv9e0yz8DZ9W_wLjTqRApIEhgwkvofbqw_UKpWf7Z9PW4TmfmLMYiQ)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[重大醫療突破！以色列發表3D列印心臟 含人體細胞血管](https://moptt.tw/p/Gossiping.M.1555348287.A.33D)|
+|D教育|  |  |
+
+
+---
+<h2 id="20190422">4/22~4/28</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|A2|美中新聞|  |
+|  |  |[中國「假學校」發不出畢業證書 學生抗議遭特警暴力鎮壓](https://moptt.tw/p/Gossiping.M.1556388196.A.809)|
+|A3|臺灣新聞|  |
+|  |  |[北市府宣布：即日起開放同性婚姻「預約」登記](https://moptt.tw/p/Gossiping.M.1556008032.A.925?fbclid=IwAR0gTaLDUk_jDVCG0BoTkerbr3JZMUKylcK9FuOlHfwfNukhr9owoV0lhwk)|
+|  |  |[AIT致函關切Uber條款爭議 質疑蔡政府對外資不友善](https://moptt.tw/p/Gossiping.M.1556161294.A.7A5)|
+|  |  |[荷蘭蟬聯最大外國投資國 去年投資台灣破千億](https://moptt.tw/p/Gossiping.M.1556196254.A.092)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[台積電完成全球首顆 3D IC 封裝](https://moptt.tw/p/Gossiping.M.1555900893.A.D4D)|
+|  |  |[不只有拆解iPhone機器人，蘋果成立「物料實驗室」探索未來回收技術](https://www.bnext.com.tw/article/52986/apple-global-earth-day?utm_source=line&utm_medium=message-3-1&utm_campaign=52986&utm_content=201904191817)|
+|  |  |[NASA承諾2024載人登月 2028年前建立繞月太空站](https://moptt.tw/p/Gossiping.M.1556275777.A.B96)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[明年起北市禁用美耐皿 台大7/1搶先實施](https://moptt.tw/p/Gossiping.M.1556016805.A.E9F?fbclid=IwAR1tmvNDIq251AV342D0gNgpCW8Ft-FQfk4Dyj1QVRx48tVpaQBxoWboriU)|
+|D教育|  |  |
+
+---
+<h2 id="20190429">4/29~5/5</h2>
