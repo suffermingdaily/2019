@@ -17,6 +17,8 @@ Sufferming Weekly News
 |第10號|[4/8~4/14](#20190408)|
 |第11號|[4/15/~4/21](#20190415)|
 |第12號|[4/22~4/28](#20190422)|
+|第13號|[4/29~5/5](#20190429)|
+
 
 > 讀報大綱：
 > - A 政治 *8
@@ -416,3 +418,31 @@ Weekly model
 
 ---
 <h2 id="20190429">4/29~5/5</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[不顧北京反對 立陶宛過半國會議員連署挺](https://moptt.tw/p/Gossiping.M.1556622179.A.D1F)|
+|  |  |[德國2018最常採用的新生名字：穆罕默德](https://moptt.tw/p/Gossiping.M.1556967253.A.B96)|
+|  |  |[泰王加冕前先娶妻 前空姐「趴地成婚」變王后](https://moptt.tw/p/Gossiping.M.1557016302.A.066)|
+|A2|美中新聞|  |
+|  |  |[川普：牌都在我們手上 不達成協議更好](https://moptt.tw/p/Gossiping.M.1556595289.A.4CD)|
+|  |  |[Vodafone承認在華為的設備中發現後門](https://moptt.tw/p/Gossiping.M.1556622815.A.782)|
+|  |  |[貿易戰台灣成贏家！美媒：迎史上最大台商回流潮](https://moptt.tw/p/Gossiping.M.1556677804.A.1F4)|
+|  |  |[白宮發言人特地發信澄清川普不支持郭台銘](https://www.ptt.cc/bbs/Gossiping/M.1556861789.A.EA5.html)|
+|  |  |[美五角大樓：中共若武力犯台 國際會干預](https://moptt.tw/p/Gossiping.M.1557027042.A.3B4)|
+|A3|臺灣新聞|  |
+|  |  |[穩坐世界球后寶座125週 戴資穎創新紀錄](https://moptt.tw/p/Gossiping.M.1556544502.A.57F)|
+|  |  |[Belize首都Belmopan和台北結為姐妹市](https://moptt.tw/p/Gossiping.M.1556523471.A.5E0)|
+|  |  |[教育部國語辭典認證「自經」就是「自殺」](https://moptt.tw/p/Gossiping.M.1556962229.A.EEE)|
+|  |  |[外國人來台就醫 創新高](https://moptt.tw/p/Gossiping.M.1557022128.A.BBD)|
+|B企業|  |  |
+|  |  |[亞馬遜用AI判定：該開除哪位員工？](https://www.bnext.com.tw/article/53083/amazon-ai-tell-who-to-fire)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[建中校長開砲：籲考試分發入學提升到50%](https://moptt.tw/p/Gossiping.M.1556444864.A.1EC)|
