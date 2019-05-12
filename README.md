@@ -19,6 +19,7 @@ Sufferming Weekly News
 |第11號|[4/15/~4/21](#20190415)|
 |第12號|[4/22~4/28](#20190422)|
 |第13號|[4/29~5/5](#20190429)|
+|第14號|[5/6~5/12](#20190506)|
 
 
 > 讀報大綱：
@@ -450,3 +451,34 @@ Weekly model
 
 ---
 <h2 id="20190506">5/6~5/12</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[創工業革命以來紀錄 英國1週沒用煤炭發電](https://moptt.tw/p/Gossiping.M.1557285876.A.952)|
+|  |  |[世上最差勁的遊客！全球最不受歡迎的6個國家出爐](https://moptt.tw/p/Gossiping.M.1557323563.A.546)|
+|A2|美中新聞|  |
+|  |  |[美眾院無異議通過台灣保證法倡對台軍售](https://moptt.tw/p/Gossiping.M.1557277493.A.06B?fbclid=IwAR04tHr6bm6DyXVYkGC8ukh4kCs3torvFhzYYTzVJhnH57GOOd9GO-K062I)|
+|  |  |[貿易戰關鍵時刻 中共再下令查糧食庫存](https://moptt.tw/p/Gossiping.M.1557365108.A.710)|
+|  |  |[川普施政滿意度創任內新高](https://moptt.tw/p/Gossiping.M.1557306552.A.31E)|
+|  |  |[川普爆氣原因揭曉...幾乎所有重大議題北京都反悔](https://moptt.tw/p/Gossiping.M.1557315984.A.AF6)|
+|  |  |[文革再現!習語錄全面入校園 中國欲打造二代「紅衛兵」](https://moptt.tw/p/Gossiping.M.1557418632.A.477)|
+|  |  |[劉鶴坦言「無能為力」 已打道回府](https://moptt.tw/p/Gossiping.M.1557585289.A.F3F)|
+|A3|臺灣新聞|  |
+|  |  |[共諜案輕判不再！ 刑法外患罪章修正三讀通過](https://moptt.tw/p/Gossiping.M.1557201749.A.83F)|
+|  |  |[陳其邁：橋頭科學園區來了！](https://moptt.tw/p/Gossiping.M.1557323320.A.FC6)|
+|  |  |[蔡總統明召開國安會議反制中國一國兩制](https://moptt.tw/p/Gossiping.M.1557417203.A.462)|
+|  |  |[教師法修法三讀通過 全教產:教師最黑暗的一天](https://moptt.tw/p/Gossiping.M.1557493403.A.AF2)|
+|  |  |[台商回流衝5千億！逾40家廠商等審核 經濟部電話被打爆](https://moptt.tw/p/Gossiping.M.1557587917.A.85E)|
+|B企業|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[文化警鐘：黑猩猩越來越笨 六大技能在失傳](https://moptt.tw/p/Gossiping.M.1557207553.A.CB9)|
+|D教育|  |  |
+
+---
+<h2 id="20190513">5/13~5/19</h2>
