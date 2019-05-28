@@ -20,7 +20,8 @@ Sufferming Weekly News
 |第12號|[4/22~4/28](#20190422)|
 |第13號|[4/29~5/5](#20190429)|
 |第14號|[5/6~5/12](#20190506)|
-
+|第15號|[5/13~5/19](#20190513)|
+|第16號|[5/20~5/26](#20190520)|
 
 > 讀報大綱：
 > - A 政治 *8
@@ -482,3 +483,73 @@ Weekly model
 
 ---
 <h2 id="20190513">5/13~5/19</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[日本人就是狂！挑戰用木頭建最高摩天樓](https://www.storm.mg/lifestyle/401840?fbclid=IwAR2K6hXlZT2VhYTV3AA6bTIm6aK31sllHTaWKEzY6M2GQvBhCagi6_c5K9k&srcid=73746f726d2e6d675f6e756c6c_1559016234&utm_medium=post)|
+|  |  |[迎2020東京奧運 日本送機動戰士鋼彈上太空應援](https://moptt.tw/p/Gossiping.M.1557975550.A.4BC?fbclid=IwAR13G4WEqmRMFSwsF5AVem5DGKVZz4KzV5Dfe4_cK-3t56yJ0HMryOSfNgg)|
+|A2|美中新聞|  |
+|  |  |[威盛晶片藏「後門」監控法輪功 判賠1億](https://moptt.tw/p/Gossiping.M.1557844081.A.90C)|
+|  |  |[中美貿戰蔓延學術圈？中媒：麻省理工零錄取中國新生](https://moptt.tw/p/Gossiping.M.1557829807.A.998)|
+|  |  |[美大學入學考SAT傳重大變革 新增「逆境分數」](https://udn.com/news/story/6813/3820865?utm_source=linemobile&utm_medium=share&fbclid=IwAR1b2VP-IgC9o3hUg6ToDG1e5VvUc9eqvev57VEfsN6BHQUAtH1inEmCFxM)|
+|  |  |[貿易戰升級 大陸400萬大學畢業生將失業](https://moptt.tw/p/Gossiping.M.1558181021.A.DC5?fbclid=IwAR0oiRJMiYmL2LxjrquJ18D7cyN5qoNUTb3hFA75BUKUfTUzsX__JZLC1dk)|
+|A3|臺灣新聞|  |
+|  |  |[台灣拿下10項痛苦「世界第一」](https://moptt.tw/p/Gossiping.M.1557977077.A.AB2?fbclid=IwAR1kx8PEhx3T462ZzEZI1gAVxI2OkX-1gg8EUW-Y62_4CC7eBA-N4Tnmi_Y)|
+|  |  |[新式數位身分證含8大功能 明年十月換發](https://moptt.tw/p/Gossiping.M.1557999706.A.4CA?fbclid=IwAR2QWS6O1WTRESmF8HTjoqZ1f9PxSEhK2AIqcsToZ00TUp8QJWEiKdG75do)|
+|  |  |[台索恐斷交？ 議員向總理施壓要求與陸建交](https://moptt.tw/p/Gossiping.M.1558254596.A.138)|
+|B企業|  |  |
+|  |  |[比漫威還賺！皮卡丘帶頭衝](https://www.bnext.com.tw/article/53266/pokémon-detective-pikachu-ip?utm_source=line&utm_medium=message&utm_content=20190513)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[月亮如葡萄般縮水！外殼破裂引發強烈月震 NASA：達芮氏規模5](https://moptt.tw/p/Gossiping.M.1557831333.A.273)|
+|  |C2工程(硬)|  |
+|  |  |[科學家利用 CRISPR 把影像儲存在大腸桿菌的DNA！](https://pansci.asia/archives/flash/122981)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[23度攻上聖母峰再破紀錄 雪巴人：只是在工作](https://moptt.tw/p/Gossiping.M.1557925113.A.969)|
+|D教育|  |  |
+|  |  |[台中一中公布《政黨成立辦法》 首創可「組黨」高校](https://moptt.tw/p/Gossiping.M.1557845188.A.73C)|
+---
+
+<h2 id="20190520">5/20~5/26</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[日本參戰！Panasonic中止與華為交易](https://moptt.tw/p/Gossiping.M.1558541005.A.CCB)|
+|  |  |[不滿大選結果 印尼雅加達昨示威暴動釀6死](https://moptt.tw/p/Gossiping.M.1558542212.A.20D)|
+|  |  |[教宗譴責中國：讓天主教徒吃苦受考驗](https://moptt.tw/p/Gossiping.M.1558588194.A.59B)|
+|  |  |[多年反毒戰爭 墨西哥擬讓毒品除罪化](https://moptt.tw/p/Gossiping.M.1558778403.A.B87)|
+|A2|美中新聞|  |
+|  |  |[Google暫停與華為合作 手機不能用Gmail](https://moptt.tw/p/Gossiping.M.1558307137.A.52D?fbclid=IwAR0JuUbooxQROh3Xpmmp9x0VDslinVKuZAAvUfyixUZnWPBdQ3d7IF5hoYI)|
+|  |  |[「別再威脅美國！」 川普怒嗆伊朗：想打仗就毀滅你](https://moptt.tw/p/Gossiping.M.1558321960.A.4A1)|
+|  |  |[美軍再出招！第七艦隊宣布：軍艦駛入南海黃岩島12海里](https://moptt.tw/p/Gossiping.M.1558340100.A.BE8)|
+|  |  |[美退役上校：習近平已下令2020準備好攻台，關鍵是離島](https://moptt.tw/p/Gossiping.M.1558376717.A.A87?fbclid=IwAR3zmoQriKtzXab0oo900vWqTEZ5nEWckeI7ZpUVtTH4onXxz4F8VbzxsrQ)|
+|  |  |[任正非改口:90天緩期無意義 我們永遠需要美國芯片](https://moptt.tw/p/Gossiping.M.1558526683.A.01A)|
+|  |  |[華為困境刺激 中國：積體電路及軟體業2年免稅](https://moptt.tw/p/Gossiping.M.1558532149.A.FD2)|
+|  |  |[美中貿易戰最新進度：巨人的殞落](https://moptt.tw/p/Gossiping.M.1558539497.A.C5B)|
+|  |  |[中國失業率實超15% 北京急維穩 中央現兩個聲音](https://moptt.tw/p/Gossiping.M.1558773533.A.E67)|
+|A3|臺灣新聞|  |
+|  |  |[1941件戒嚴檔案保密年限 調局逕延30年](https://moptt.tw/p/Gossiping.M.1558580333.A.9C5)|
+|  |  |[月薪15萬以上主管 今起納責任制](https://moptt.tw/p/Gossiping.M.1558589945.A.8DE?fbclid=IwAR1_AQHBMP18FrHa8HiLB6InBCLzDgtQT3bRJc7_i-9Jggy3scMQ-ZTPIgI)|
+|  |  |[5G傑出研究 清大校友黃敏祐獲「小諾貝爾獎」](https://moptt.tw/p/Gossiping.M.1558605018.A.936)|
+|B企業|  |  |
+|  |  |[新浪財經點名台積電才是華為生存關鍵](https://moptt.tw/p/Gossiping.M.1558431384.A.083)|
+|  |  |[韓國前10大企業 2019第一季營利暴跌43%!!](https://moptt.tw/p/Gossiping.M.1558539333.A.A04)|
+|  |  |[雪崩效應？微軟下架華為電腦 疑將終止Windows授權](https://moptt.tw/p/Gossiping.M.1558576441.A.E87)|
+|  |  |[ARM中止授權 華為晶片水準倒退4代面臨倒閉](https://moptt.tw/p/Gossiping.M.1558579575.A.538)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[最新發現：一巨大不明天體穿越銀河系](https://moptt.tw/p/Gossiping.M.1558421745.A.E7C)|
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |  |[Google AI 翻譯新突破！保留原聲同步語音翻譯](https://www.inside.com.tw/article/16390-google-ai-translatotron-end-to-end?utm_source=LINEat&utm_medium=3&utm_campaign=INSIDE)|
+|  |C4生醫健康|  |
+|  |  |[抓到了！破壞臭氧層氣體激增 因中國違法偷排](https://moptt.tw/p/Gossiping.M.1558598882.A.5EF)|
+|D教育|  |  |
+
+---
+<h2 id="20190527">5/27~6/2</h2>
