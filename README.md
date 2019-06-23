@@ -24,7 +24,9 @@ Sufferming Weekly News
 |第16號|[5/20~5/26](#20190520)|
 |第17號|[5/27~6/2](#20190527)|
 |第18號|[6/3~6/9](#20190603)|
-
+|第19號|[6/10~6/16](#20190610)|
+|第20號|[6/17~6/23](#20190617)|
+|第21號|[6/24~6/30](#20190624)|
 
 
 > 讀報大綱：
@@ -39,7 +41,7 @@ Sufferming Weekly News
 >   * C3: 工程(軟)
 >   * C4: 生醫健康
 > - D 教育 *0~1
-> % 2019/4/14 改財金版為企業版
+> - E 副刊 *0~1
 
 Weekly model
 `
@@ -56,9 +58,11 @@ Weekly model
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
 |D教育|  |  |
+|E副刊|  |  |
 
 #4/8-B版從財金改為企業
 #6/7-B版從企業改為企金(企業金融)
+#6/3 新增 E副刊
 `
 
 <h2 id="20190204">2/4~2/10</h2>
@@ -580,5 +584,93 @@ Weekly model
 |  |  |[醫用含粉手套恐增感染風險 2021年起禁輸入製造](https://moptt.tw/p/Gossiping.M.1558856148.A.9DB)|
 |D教育|  |  |
 
+---
+<h2 id="20190603">6/3~6/9</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[97歲前空降師成員於諾曼第跳傘紀念同袍](https://moptt.tw/p/Gossiping.M.1559808012.A.C57)|
+|A2|美中新聞|  |
+|  |  |[六四領袖在香港機場被帶走 下落不明](https://moptt.tw/p/Gossiping.M.1559469115.A.078)|
+|  |  |[貿易戰禍及中國病人 救心片價格急漲10多倍](https://moptt.tw/p/Gossiping.M.1559481854.A.2A6)|
+|  |  |[匯出的錢被黑了 中國喊停哈薩克一帶一路計畫](https://moptt.tw/p/Gossiping.M.1559788409.A.3C5)|
+|  |  |[北京反悔 談判崩盤 英文大紀元專訪揭內幕](https://moptt.tw/p/Gossiping.M.1559785903.A.BEF)|
+|  |  |[美推動「廢中國在WTO地位」：擁5艘航母算什麼發展中國家！](https://moptt.tw/p/Gossiping.M.1559875297.A.276)|
+|A3|臺灣新聞|  |
+|  |  |[軍方投入1368億餘元 2029年造71新艦](https://moptt.tw/p/Gossiping.M.1559486513.A.435)|
+|  |  |[美國擬大規模軍售台灣 含M1A2戰車與大批飛彈](https://moptt.tw/p/Gossiping.M.1559776838.A.2AE)|
+|B企金|  |  |
+|  |  |[醫生族群會放多少資金在金融投資上面 ?](https://www.ptt.cc/bbs/medstudent/M.1559673893.A.678.html)|
+|  |  |[速食也蔬食！摩斯「未來肉漢堡」6／6開賣](https://moptt.tw/p/Gossiping.M.1559997695.A.DFD)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[實驗室模擬「聲子黑洞」驗證霍金輻射](https://moptt.tw/p/Gossiping.M.1559869262.A.E7B)|
+|  |C2工程(硬)|  |
+|  |  |[真的有人懂整臺電腦的原理嗎?](https://moptt.tw/p/Gossiping.M.1559978163.A.91C)|
+|  |C3工程(軟)|  |
+|  |  |[為甚麼C語言自訂函式一定要在主程式上面?](https://moptt.tw/p/Gossiping.M.1559742928.A.3EF)|
+|  |  |[AI 的畫作居然可以賣到 1358 萬台幣！](https://buzzorange.com/techorange/2019/06/06/gan-ai-paint/)|
+|  |C4生醫健康|  |
+|  |  |[漸凍症有解！中研院發現一種微型核糖核酸有助「解凍」](https://moptt.tw/p/Gossiping.M.1559711219.A.4DD)|
+|D教育|  |  |
+|  |  |[史上最年輕！21歲女完成環遊世界196國夢想](https://moptt.tw/p/Gossiping.M.1559790608.A.E87)|
+|E副刊|  |  |
+|  |  |[南、北粽子大戰！](https://www.ptt.cc/bbs/Gossiping/M.1559986728.A.D5B.html?fbclid=IwAR30HoK4XbdExoDmTxAaZoybxp3dIiOii9XCxCsRfmjBllnqo6cpZCz6PLA)|
+
 
 ---
+<h2 id="20190610">6/10~6/16</h2>
+
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[無意撤回《逃犯條例》修法 香港政府：6月12日二讀](https://moptt.tw/p/Gossiping.M.1560096734.A.56B?fbclid=IwAR3gq7H_tzf5GumjcUJ2j2PcoLqtOfds3gqzDkhC-tVDerTxb6eJpcclGmc)|
+|  |  |[不顧百萬人上街特首堅持修法 港人發起罷工罷市反送中](https://moptt.tw/p/Gossiping.M.1560162452.A.75E)|
+|  |  |[做空比特幣慘虧4.6億！比特易創辦人自殺](https://moptt.tw/p/Gossiping.M.1560304053.A.A1D)|
+|  |  |[蘇丹緊張情勢升高 衣索比亞總理前往斡旋](https://moptt.tw/p/Gossiping.M.1559970689.A.C73)|
+|A2|美中新聞|  |
+|A3|臺灣新聞|  |
+|  |  |[台灣高達96%民眾壓力纏身！排名世界第2 最嚴重恐過勞致死](https://moptt.tw/p/Gossiping.M.1560191248.A.6CA)|
+|  |  |[緊急！中國吹來秋行軍蟲入侵台灣！](https://www.ptt.cc/bbs/Gossiping/M.1560170313.A.3EF.html?fbclid=IwAR2-LzkvfL2auchJelB6dr_3hne48_81RQDi0p6uJeHzQ75V9_4GqBz0z1o)|
+|  |  |[首度負成長！攤販五年少 1.2 萬家，不敵店面與電商夾殺](https://www.inside.com.tw/article/16525-street-stands-in-taiwan-are-decreasing)|
+|  |  |[台灣單身人口破600萬，單身女性高於單身男性](https://moptt.tw/p/Gossiping.M.1560441367.A.B9D)|
+|B企金|  |  |
+|  |  |[骨灰罈掰！六年終推全新 Mac Pro 怪獸，蘋果在賣什麼藥？](https://www.inside.com.tw/article/16549-mac-pro-for-developers)|
+|  |  |[Google脫中 硬體生產轉移台灣](https://moptt.tw/p/Gossiping.M.1560403653.A.8BA)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E副刊|  |  |
+
+---
+<h2 id="20190617">6/17~6/23</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|A2|美中新聞|  |
+|A3|臺灣新聞|  |
+|  |  |[回擊罷工！長榮：停年終、不調薪、取消優惠機票](https://moptt.tw/p/Gossiping.M.1561041921.A.B7D?fbclid=IwAR3W6IclUm7ASgZ3Pg6olQnIxcW4GuYVyjS6g0luo3djtTqninaio4rjdCQ)|
+|B企金|  |  |
+|  |  |[讓你一次搞懂臉書幣 Libra 的注意事項](https://www.inside.com.tw/article/16676-Facebook-Libra-considerations)|
+|  |  |[在台擴大打擊假消息！Facebook 與台灣事實查核中心合作](https://www.inside.com.tw/article/16675-fact-checking-at-facebook)|
+|  |  |[超商取貨可刷卡了！金管會開放 7 類款項 5000 元內可超商刷卡支付](https://www.inside.com.tw/article/16695-convenience-store-more-could-pay-with-credit-card)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[美國的教育這麼爛(?)為何還能贏台灣](https://www.ptt.cc/bbs/Gossiping/M.1561145025.A.823.html)|
+|E副刊|  |  |
+
+---
+<h2 id="20190624">6/24~6/30</h2>
