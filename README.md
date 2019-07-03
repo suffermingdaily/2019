@@ -27,7 +27,7 @@ Sufferming Weekly News
 |第19號|[6/10~6/16](#20190610)|
 |第20號|[6/17~6/23](#20190617)|
 |第21號|[6/24~6/30](#20190624)|
-
+|第22號|[7/1~7/7](#20190701)|
 
 > 讀報大綱：
 > - A 政治 *8
@@ -674,3 +674,43 @@ Weekly model
 
 ---
 <h2 id="20190624">6/24~6/30</h2>
+
+本週頭條：G20、華航罷工
+
+|版|次版|連結|
+|--|--|--|
+|A政治|  |  |
+|A1|國際新聞|  |
+|  |  |[泰國規定讓家人吸二手菸算家暴](https://moptt.tw/p/Gossiping.M.1561377940.A.DF3)|
+|  |  |[全球大量灰鯨異常死亡！磷蝦油殘害難辭其咎](https://moptt.tw/p/Gossiping.M.1561392138.A.C8A)|
+|  |  |[中國誠信 全球最後一名](https://moptt.tw/p/Gossiping.M.1561477341.A.9EA)|
+|  |  |[巴西總統赴G20 機師走私39公斤古柯鹼被捕](https://moptt.tw/p/Gossiping.M.1561605298.A.09A)|
+|  |  |[川普批《美日安保條約》：美國若被攻擊，日本只會看Sony電視](https://moptt.tw/p/Gossiping.M.1561679860.A.505)|
+|  |  |[國際太空站正在發霉 裡面和外面](https://moptt.tw/p/Gossiping.M.1561814583.A.62B)|
+|  |  |[中國代表團遲到 巴西總統火大取消與習近平會談](https://moptt.tw/p/Gossiping.M.1561870472.A.63E)|
+|A2|美中新聞|  |
+|  |  |[偷美國晶片運至中國 UCLA教授被定罪](https://moptt.tw/p/Gossiping.M.1561734184.A.972)|
+|  |  |[中國宣布大赦 對九類罪犯進行特赦](https://moptt.tw/p/Gossiping.M.1561810597.A.7A8)|
+|A3|臺灣新聞|  |
+|  |  |[解放軍若攻台 軍事專家：中國將面臨最血腥的一役](https://moptt.tw/p/Gossiping.M.1561356287.A.885)|
+|  |  |[福衛七號跟地面站成功聯繫！](https://moptt.tw/p/Gossiping.M.1561467149.A.786)|
+|  |  |[韓國瑜「北農爛帳」揭密！年領超過400萬 濫發獎金賞親信出國](https://moptt.tw/p/Gossiping.M.1561502672.A.A13)|
+|  |  |[國安危機 銓敘部個資外洩情治人員全都露](https://moptt.tw/p/Gossiping.M.1561525938.A.BFC)|
+|B企金|  |  |
+|  |  |[比爾蓋茲：我所犯過的「最大錯誤」就是看著谷歌推出Android系統](https://moptt.tw/p/Gossiping.M.1561376355.A.FD7)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[大學人文社會領域 最易成「跳板系」](https://moptt.tw/p/Gossiping.M.1561820551.A.702)|
+|E副刊|  |  |
+|  |  |[神隱少女中國首映票房大勝玩具總動員4](https://moptt.tw/p/Gossiping.M.1561341743.A.F35?fbclid=IwAR3u-enkcxoLJhLjff_HX6xsB3lbNrr8OWZPgPGgPf96WnGSLP9KxfwAJc4)|
+|  |  |[日本算是人類觀光的頂點嗎](https://moptt.tw/p/Gossiping.M.1561574510.A.19A)|
+
+
+---
+<h2 id="20190701">7/1~7/7</h2>
+
+
