@@ -777,13 +777,13 @@ Weekly model
 |  |  |[理論上可永久飛行，哈佛「太陽能機器蜜蜂」登上 Nature](https://www.inside.com.tw/article/16746-solar-powered-robobee-xwing-flies-untethered?utm_source=LINEat&utm_medium=3&utm_campaign=INSIDE)|
 |  |C3工程(軟)|  |
 |  |  |[每月2萬件！ 工程師開發「極速檢舉程式」輕鬆尬三寶](https://moptt.tw/p/Gossiping.M.1562587727.A.9FD)|
-|  |  |[與史諾登合作反監測工具、幫福島測輻射，俠氣駭客「邦尼」：我不怎麼追求錢這件事](https://www.bnext.com.tw/article/53954/bunnie-hacker-empowerment?utm_source=line&utm_medium=message&utm_content=20190710)|
+|  |  |[俠氣駭客「邦尼」：我不怎麼追求錢這件事](https://www.bnext.com.tw/article/53954/bunnie-hacker-empowerment?utm_source=line&utm_medium=message&utm_content=20190710)|
 |  |  |[Instagram反霸凌新功能，AI揪出鍵盤酸民](https://www.bnext.com.tw/article/53956/instagram-anti-bullying-functions)|
 |  |C4生醫健康|  |
 |  |  |[100 小時不間斷的核磁共振掃描，人類獲得史上最完整的大腦 3D 圖像！](https://buzzorange.com/techorange/2019/07/11/mri-human-brain-image/)|
 |D教育|  |  |
 |E副刊|  |  |
-[罕見！深海鯊搶吃死劍魚 被大石斑埋伏生吞](https://moptt.tw/p/Gossiping.M.1562772045.A.E62)
+|  |  |[罕見！深海鯊搶吃死劍魚 被大石斑埋伏生吞](https://moptt.tw/p/Gossiping.M.1562772045.A.E62)|
 
 ---
 <h2 id="20190715">7/15~7/21</h2>
