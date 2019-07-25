@@ -29,6 +29,8 @@ Sufferming Weekly News
 |第21號|[6/24~6/30](#20190624)|
 |第22號|[7/1~7/7](#20190701)|
 |第23號|[7/8~7/14](#20190708)|
+|第24號|[7/15~7/21](#20190715)|
+|第25號|[7/22~7/28](#20190722)|
 
 > 讀報大綱：
 > - A 政治 *8
@@ -48,7 +50,7 @@ Weekly model
 `
 |版|次版|連結|
 |--|--|--|
-|A政治|  |  |
+|A政社|  |  |
 |A1|國際新聞|  |
 |A2|美中新聞|  |
 |A3|臺灣新聞|  |
@@ -63,7 +65,8 @@ Weekly model
 
 #4/8-B版從財金改為企業
 #6/7-B版從企業改為企金(企業金融)
-#6/3 新增 E副刊
+#6/3-新增 E副刊
+#7/8-A版從政治改回政社(社會政治)
 `
 
 <h2 id="20190204">2/4~2/10</h2>
@@ -746,3 +749,80 @@ Weekly model
 
 ---
 <h2 id="20190708">7/8~7/14</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政社|  |  |
+|A1|國際新聞|  |
+|  |  |[悲！印度出現「無子宮婦女村」 原因讓人淚崩](https://moptt.tw/p/Gossiping.M.1562500156.A.372)|
+|  |  |[日本掐住南韓半導體產業命脈](https://moptt.tw/p/Gossiping.M.1562590811.A.A9B)|
+|  |  |[南韓WTO狀告日本 仇日擴大走極端](https://moptt.tw/p/Gossiping.M.1562762477.A.226)|
+|A2|美中新聞|  |
+|  |  |[中共承認三峽大壩變形 三峽景區發緊急通知](https://moptt.tw/p/Gossiping.M.1562511209.A.A5C)|
+|  |  |[美國政府宣布：將豁免110項中國大陸輸美產品！排除25%關稅](https://moptt.tw/p/Gossiping.M.1562736619.A.42F)|
+|A3|臺灣新聞|  |
+|  |  |[台灣單身人口破600萬單身女性高於單身男性](https://moptt.tw/p/Gossiping.M.1562509169.A.F9F)|
+|  |  |[兩岸貿易額 去年逆勢創高 突破2,200億美元](https://moptt.tw/p/Gossiping.M.1562483151.A.948)|
+|B企金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[平生不識吉布斯，熟讀熱、統也枉然](https://moptt.tw/p/Gossiping.M.1562682156.A.A45)|
+|  |  |[像差再見！博士生解決長達2000年的光學](https://moptt.tw/p/Gossiping.M.1562966780.A.2A3)|
+|  |  |[宇宙中驚恐一幕 兩超大質量黑洞即將對撞](https://moptt.tw/p/Gossiping.M.1563027707.A.AE5)|
+|  |C2工程(硬)|  |
+|  |  |[理論上可永久飛行，哈佛「太陽能機器蜜蜂」登上 Nature](https://www.inside.com.tw/article/16746-solar-powered-robobee-xwing-flies-untethered?utm_source=LINEat&utm_medium=3&utm_campaign=INSIDE)|
+|  |C3工程(軟)|  |
+|  |  |[每月2萬件！ 工程師開發「極速檢舉程式」輕鬆尬三寶](https://moptt.tw/p/Gossiping.M.1562587727.A.9FD)|
+|  |  |[與史諾登合作反監測工具、幫福島測輻射，俠氣駭客「邦尼」：我不怎麼追求錢這件事](https://www.bnext.com.tw/article/53954/bunnie-hacker-empowerment?utm_source=line&utm_medium=message&utm_content=20190710)|
+|  |  |[Instagram反霸凌新功能，AI揪出鍵盤酸民](https://www.bnext.com.tw/article/53956/instagram-anti-bullying-functions)|
+|  |C4生醫健康|  |
+|  |  |[100 小時不間斷的核磁共振掃描，人類獲得史上最完整的大腦 3D 圖像！](https://buzzorange.com/techorange/2019/07/11/mri-human-brain-image/)|
+|D教育|  |  |
+|E副刊|  |  |
+[罕見！深海鯊搶吃死劍魚 被大石斑埋伏生吞](https://moptt.tw/p/Gossiping.M.1562772045.A.E62)
+
+---
+<h2 id="20190715">7/15~7/21</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政社|  |  |
+|A1|國際新聞|  |
+|  |  |[歐盟迎來首位女主席 馮德萊恩對中共強硬](https://moptt.tw/p/Gossiping.M.1563358981.A.BC2)|
+|  |  |[日本動漫界浩劫 京都動畫遭縱火33死](https://moptt.tw/p/Gossiping.M.1563490001.A.EE5)|
+|  |  |[京都動畫社長證實「一切全沒了」](https://moptt.tw/p/Gossiping.M.1563552341.A.6D1)|
+|A2|美中新聞|  |
+|  |  |[中共對媒體全面審查 調查記者幾乎全消失](https://moptt.tw/p/Gossiping.M.1563289853.A.802)|
+|  |  |[美歐日和大陸公司加快從中國出走 中共急了](https://moptt.tw/p/Gossiping.M.1563514520.A.212)|
+|A3|臺灣新聞|  |
+|  |  |[辭職當全職 youtuber 的卦](https://moptt.tw/p/Gossiping.M.1563121390.A.FE3)|
+|  |  |[天敵找到！ 赤眼卵蜂可寄生於秋行軍蟲卵抑制孵化](https://moptt.tw/p/Gossiping.M.1563182821.A.DBF)|
+|  |  |[內幕：中共五千間諜侵台 滲透軍方五大手法](https://moptt.tw/p/Gossiping.M.1563284106.A.DEB)|
+|  |  |[國台辦直接控制台媒？陸委會：檢調應進行調查偵辦](https://moptt.tw/p/Gossiping.M.1563404763.A.A72)|
+|B企金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[全球最高二氧化碳轉換率！台大跨國團隊找到最新催化劑](https://moptt.tw/p/Gossiping.M.1563169112.A.6FB)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E副刊|  |  |
+
+---
+<h2 id="20190722">7/22~7/28</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政社|  |  |
+|A1|國際新聞|  |
+|A2|美中新聞|  |
+|A3|臺灣新聞|  |
+|B企金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E副刊|  |  |
