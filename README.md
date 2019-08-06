@@ -31,6 +31,7 @@ Sufferming Weekly News
 |第23號|[7/8~7/14](#20190708)|
 |第24號|[7/15~7/21](#20190715)|
 |第25號|[7/22~7/28](#20190722)|
+|第26號|[7/29~8/4](#20190729)|
 
 > 讀報大綱：
 > - A 政治 *8
@@ -820,8 +821,19 @@ Weekly model
 |--|--|--|
 |A政社|  |  |
 |A1|國際新聞|  |
+|  |  |[Boris Johnson成為新任的英國首相](https://moptt.tw/p/Gossiping.M.1563879918.A.309)|
+|  |  |[香港警察、港鐵都要加入不合作運動了](https://moptt.tw/p/Gossiping.M.1564145918.A.0AC)|
+|  |  |[強生新內閣亮相 英國或全面禁華為5G](https://moptt.tw/p/Gossiping.M.1564200818.A.9EF)|
 |A2|美中新聞|  |
+|  |  |[川普政府剛宣佈聯邦政府今年恢復執行死刑](https://moptt.tw/p/Gossiping.M.1564068853.A.188)|
+|  |  |[川普大勝利！拿國防預算蓋圍牆 最高法院准了](https://moptt.tw/p/Gossiping.M.1564234456.A.773?fbclid=IwAR2ZFni-mg5jFA6xcOy3Wnfw-mmhRxd2-Bl44kok3u3Ld2LK-aODBldfmPw)|
 |A3|臺灣新聞|  |
+|  |  |[全國首例 板中新學年起開放男生穿裙上學](https://moptt.tw/p/Gossiping.M.1563771318.A.32F)|
+|  |  |[下月起 建中生可穿便服入校](https://moptt.tw/p/Gossiping.M.1563885840.A.BA0)|
+|  |  |[23家網媒刊中國批蔡投書 恐違國安法](https://moptt.tw/p/Gossiping.M.1564061732.A.968)|
+|  |  |[新南向國來台投資 上半年增668％](https://moptt.tw/p/Gossiping.M.1564064530.A.126)|
+|  |  |[33筆檔案收歸國有 國民黨聲請停執遭駁回](https://moptt.tw/p/Gossiping.M.1564060202.A.096)|
+|  |  |[北宜直鐵 擬穿越翡翠水庫集水區](https://moptt.tw/p/Gossiping.M.1564055279.A.39E)|
 |B企金|  |  |
 |C科學|  |  |
 |  |C1物理|  |
@@ -830,3 +842,41 @@ Weekly model
 |  |C4生醫健康|  |
 |D教育|  |  |
 |E副刊|  |  |
+|  |  |[台灣人愛出國，去年出國人次排全球第10](https://moptt.tw/p/Gossiping.M.1563965716.A.151)|
+|  |  |[霧峰林家跟板橋林家哪個有錢啊？](https://moptt.tw/p/Gossiping.M.1563445803.A.18F)|
+
+
+---
+<h2 id="20190729">7/29~8/4</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政社|  |  |
+|A1|國際新聞|  |
+|  |  |[「日本辛德勒」救6000猶太人 Google紀念杉原千畝逝世33週年](https://moptt.tw/p/Gossiping.M.1564395187.A.22A?fbclid=IwAR05jKvm5r9nrZ6b2rMui4MAAj3t3hXE6ZlpRNUQBMdGIHVfRBRdYb_E4zg)|
+|  |  |[奇蹟！京阿尼擺放伺服器房間未遭火損水浸，存放原畫硬碟數據完整救回](https://moptt.tw/p/Gossiping.M.1564431778.A.BE0)|
+|  |  |[日本閣議決定將韓國從白名單剔除](https://moptt.tw/p/Gossiping.M.1564711182.A.831)|
+|  |  |[日本分4大類出口國 南韓從A集團降格B集團](https://moptt.tw/p/Gossiping.M.1564880201.A.93F?fbclid=IwAR3Tq3OSP-SDI84yODjMRlTnDZuKsN9vY1DHPgj-n6eKSU5z3V5b_HNVwEc)|
+|  |  |[不准蒙面！吵了14年 荷蘭「布卡」禁令生效](https://moptt.tw/p/Gossiping.M.1564714743.A.708)|
+|  |  |[東京奧運獎牌亮相 最美的設計是背後的含義](https://fashion.ettoday.net/news/1504479?redirect=1)|
+|A2|美中新聞|  |
+|  |  |[陸客自由行喊卡 中國學者批中共蠢招：自己搞台獨](https://moptt.tw/p/Gossiping.M.1564678485.A.139)|
+|  |  |[川普宣布：9月1日起 加3000億陸商品關稅](https://moptt.tw/p/Gossiping.M.1564683722.A.9FE)|
+|  |  |[中共內外交困加緊洗腦 100天禁播娛樂劇](https://moptt.tw/p/Gossiping.M.1564713944.A.1A2?fbclid=IwAR2JjiUJYKAw8B9X5foo4M_eiQWyafawb4bJYrDBJ-G7tgW3lGAt2LlRm8g)|
+|A3|臺灣新聞|  |
+|  |  |[3小時變有機肥！中研院士獨門酵素獲訂單 估每年5千億商機](https://moptt.tw/p/Gossiping.M.1564425868.A.27D)|
+|  |  |[陸委會公布「一國兩制」民調88.7%不贊同](https://moptt.tw/p/Gossiping.M.1564676599.A.9C0?fbclid=IwAR2ntlKYvgTk2URCOgQYMi1VbPikcf8W0U2oun-pshQnXh4eZHhq2RYvUMQ)|
+|B企金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[封印解除！日本將進行第一步人體鍊成](https://moptt.tw/p/Gossiping.M.1564370588.A.AE7)|
+|D教育|  |  |
+|E副刊|  |  |
+|  |  |[有沒有對人類史上影響最大的科學家是誰的八卦?](https://moptt.tw/p/Gossiping.M.1564302140.A.0D1)|
+|  |  |[為什麼法條都要用 "係" 而不用 "是"](https://moptt.tw/p/Gossiping.M.1564674983.A.546)|
+
+---
+<h2 id="20190805">8/5~8/11</h2>
