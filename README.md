@@ -32,6 +32,8 @@ Sufferming Weekly News
 |第24號|[7/15~7/21](#20190715)|
 |第25號|[7/22~7/28](#20190722)|
 |第26號|[7/29~8/4](#20190729)|
+|第27號|[8/5~8/11](#20190805)|
+|第28號|[8/12~8/18](#20190812)|
 
 > 讀報大綱：
 > - A 政治 *8
@@ -880,3 +882,41 @@ Weekly model
 
 ---
 <h2 id="20190805">8/5~8/11</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政社|  |  |
+|A1|國際新聞|  |
+|  |  |[德聯邦議院參訪新疆、西藏 中國反悔變臉：禁止入境](https://moptt.tw/p/Gossiping.M.1564904754.A.B06)|
+|  |  |[日韓貿易戰怎解？ 文在寅籲：南北韓合作、超越日本！](https://moptt.tw/p/Gossiping.M.1565052780.A.6A6)|
+|  |  |[印度宣布終止賦予印屬喀什米爾特殊地位](https://moptt.tw/p/Gossiping.M.1565075489.A.844)|
+|  |  |[日握全球7成氟化氫，三星找替代:難如登天](https://moptt.tw/p/Gossiping.M.1565275034.A.90D)|
+|  |  |[印度廢喀什米爾「一國兩制」！萬人軍隊進駐鎮壓 網路、電話全斷](https://moptt.tw/p/Gossiping.M.1565436608.A.27E)|
+|A2|美中新聞|  |
+|  |  |[世界奇觀崩壞中：51.2%壞掉的「萬里長城」，怎麼修？](https://moptt.tw/p/Gossiping.M.1564899884.A.42C)|
+|  |  |[人民幣兌美元匯率 貶破7大關](https://moptt.tw/p/Gossiping.M.1564972440.A.1DE)|
+|  |  |[重磅！美國財政部將中國列為「匯率操縱國」](https://moptt.tw/p/Gossiping.M.1565047205.A.916)|
+|  |  |[不敵北京壓力！國泰航空妥協 炒了「反送中」機師、職員](https://moptt.tw/p/Gossiping.M.1565453881.A.6B5)|
+|A3|臺灣新聞|  |
+|  |  |[捷媒：與中國歧見加深 穿山甲可能取代貓熊](https://moptt.tw/p/Gossiping.M.1565193988.A.CCE)|
+|  |  |[國際商業雜誌評比：台灣醫療制度 全球第一](https://moptt.tw/p/Gossiping.M.1565360521.A.936)|
+|  |  |[博恩辭職啦](https://moptt.tw/p/Gossiping.M.1565357908.A.82A)|
+|B企金|  |  |
+|  |  |[震撼！香港滙豐銀行大裁員](https://moptt.tw/p/Gossiping.M.1565089266.A.577)|
+|  |  |[食品龍頭超會賺！毛利率34.91%史上新高](https://www.ettoday.net/news/20190808/1508346.htm)|
+|  |  |[蘋果確認今年 8 月正式推出 Apple Card](https://www.inside.com.tw/article/17074-apple-card-launch-on-August)|
+|  |  |[一揭矽谷最神秘獨角獸 Palantir](https://www.inside.com.tw/article/16979-Palantir)|
+|  |  |[賠錢還配股！Uber 上季淨損逾 50 億美元](https://www.inside.com.tw/article/17161-uber-loses-5-billion-in-q2-2019-despite-big-uptick-in-trips)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[全球首個異構融腦晶片！中國「天機芯」登上國際雜誌《Nature》封面](https://moptt.tw/p/Gossiping.M.1565064121.A.286)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|  |  |[指考放榜 大資工時代來臨](https://moptt.tw/p/Gossiping.M.1565156917.A.336)|
+|  |  |[我出國留學人數 創5年新高](https://moptt.tw/p/Gossiping.M.1565438636.A.4FF)|
+|E副刊|  |  |
+
+---
+<h2 id="20190812">8/12~8/18</h2>
