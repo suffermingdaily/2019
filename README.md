@@ -897,6 +897,7 @@ Weekly model
 |  |  |[人民幣兌美元匯率 貶破7大關](https://moptt.tw/p/Gossiping.M.1564972440.A.1DE)|
 |  |  |[重磅！美國財政部將中國列為「匯率操縱國」](https://moptt.tw/p/Gossiping.M.1565047205.A.916)|
 |  |  |[不敵北京壓力！國泰航空妥協 炒了「反送中」機師、職員](https://moptt.tw/p/Gossiping.M.1565453881.A.6B5)|
+|  |  |[中國大媽斥港警影片瘋傳：共產黨一樣槍斃你們](https://moptt.tw/p/Gossiping.M.1565356965.A.625)|
 |A3|臺灣新聞|  |
 |  |  |[捷媒：與中國歧見加深 穿山甲可能取代貓熊](https://moptt.tw/p/Gossiping.M.1565193988.A.CCE)|
 |  |  |[國際商業雜誌評比：台灣醫療制度 全球第一](https://moptt.tw/p/Gossiping.M.1565360521.A.936)|
