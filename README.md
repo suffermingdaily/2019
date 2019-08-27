@@ -34,6 +34,8 @@ Sufferming Weekly News
 |第26號|[7/29~8/4](#20190729)|
 |第27號|[8/5~8/11](#20190805)|
 |第28號|[8/12~8/18](#20190812)|
+|第29號|[8/19~8/25](#20190819)|
+|第30號|[8/26~9/1](#20190826)|
 
 > 讀報大綱：
 > - A 政治 *8
@@ -921,3 +923,35 @@ Weekly model
 
 ---
 <h2 id="20190812">8/12~8/18</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政社|  |  |
+|A1|國際新聞|  |
+|  |  |[不滿中石油耍賴 秘魯人燒中資辦公大樓抗議](https://moptt.tw/p/Gossiping.M.1566074080.A.D6C)|
+|  |  |[福島輻射水快沒地方放 必須根本解決](https://moptt.tw/p/Gossiping.M.1565614735.A.851)|
+|  |  |[香港抓「中共臥底」 港警營救一片混戰](https://moptt.tw/p/Gossiping.M.1565791095.A.D25)|
+|  |  |[文在寅：2045年實現「一個韓國」](https://moptt.tw/p/Gossiping.M.1565840815.A.EF2)|
+|A2|美中新聞|  |
+|  |  |[美亞洲部署飛彈 首選韓日台](https://moptt.tw/p/Gossiping.M.1565587288.A.2C9)|
+|  |  |[川普批准售台66架F-16V戰機 2500億軍售案提交國會](https://moptt.tw/p/Gossiping.M.1565941078.A.C00)|
+|  |  |[新疆維吾爾裔學霸出任白宮中國政策主任](https://moptt.tw/p/Gossiping.M.1565996521.A.234)|
+|  |  |[貿易戰升溫中國經濟不妙 明年GDP保6恐無望、人民幣匯價下探7.2](https://moptt.tw/p/Gossiping.M.1565615816.A.6AB)|
+|  |  |[WTO判決美不當徵收17項中國關稅 中國可祭制裁報復](https://moptt.tw/p/Gossiping.M.1566013416.A.8EE)|
+|A3|臺灣新聞|  |
+|  |  |[私菸案追共犯 總統府侍衛室人員交保…累計17人列貪污被告](https://moptt.tw/p/Gossiping.M.1565658590.A.390)|
+|  |  |[疾管署疾病擬人化紅到日本](https://moptt.tw/p/Gossiping.M.1565791400.A.608)|
+|  |  |[威脅台灣就是威脅西太平洋！AIT宣布美台新交流](https://moptt.tw/p/Gossiping.M.1565803512.A.797)|
+|B企金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[有研發原子彈的八卦嗎？](https://moptt.tw/p/Gossiping.M.1565868855.A.EC1)|
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |  |[Google、蘋果、BMW都找他！台廠勤崴掌握全台灣超過70%電子圖資](https://www.bnext.com.tw/article/54380/control-the-70-percent-electronic-map-of-the-whole-taiwan?utm_source=line&utm_medium=message&utm_content=20190816)|
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E副刊|  |  |
+
+---
+<h2 id="20190819">8/19~8/15</h2>
