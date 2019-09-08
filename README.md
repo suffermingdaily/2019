@@ -36,6 +36,9 @@ Sufferming Weekly News
 |第28號|[8/12~8/18](#20190812)|
 |第29號|[8/19~8/25](#20190819)|
 |第30號|[8/26~9/1](#20190826)|
+|第31號|[9/2~9/8](#20190902)|
+
+
 
 > 讀報大綱：
 > - A 政治 *8
@@ -988,19 +991,78 @@ Weekly model
 |E副刊|  |  |
 
 ---
-<h2 id="20190826">8/26~9/2</h2>
+<h2 id="20190826">8/26~9/1</h2>
 
 |版|次版|連結|
 |--|--|--|
 |A政社|  |  |
 |A1|國際新聞|  |
+|  |  |[沒人報亞馬遜雨林！李奧納多霸氣砸1.6億 挽救地球之肺](https://moptt.tw/p/Gossiping.M.1566805786.A.23B)|
+|  |  |[不哭不鬧的澳門，現在的模樣](https://moptt.tw/p/Gossiping.M.1566997245.A.3B4)|
+|  |  |[「硬脫歐」真要來了！國會將暫停運作約五週](https://moptt.tw/p/Gossiping.M.1567007657.A.7DF)|
+|  |  |[不事「生產」 南韓生育率跌至史上最低](https://moptt.tw/p/Gossiping.M.1567179168.A.7FA?fbclid=IwAR2KCUxbERhME5knMvTw4g4-WzOBWY7th11F3XAHcDtwE-kKCQ-97j8Gyts)|
 |A2|美中新聞|  |
+|  |  |[川普：美日貿易協議原則上談成 安倍會買美國過剩穀物](https://moptt.tw/p/Gossiping.M.1566748224.A.3B4)|
+|  |  |[劉鶴稱貿易戰要冷靜 川普：希望也對香港冷靜](https://moptt.tw/p/Gossiping.M.1566874862.A.BCD)|
+|  |  |[中國祭政策獎勵養豬 業者觀望不敢進場](https://moptt.tw/p/Gossiping.M.1567085608.A.17A)|
 |A3|臺灣新聞|  |
+|  |  |[無殼蝸牛30年青年越來越苦 黃國昌：起身對抗金權政治](https://moptt.tw/p/Gossiping.M.1566827652.A.292)|
+|  |  |[黨產會「十大僭設」展覽資料](https://moptt.tw/p/Gossiping.M.1566920914.A.EA8)|
+|  |  |[北漂青年回不了家！近5年大專薪資行情 台中市、高雄市墊底六都](https://moptt.tw/p/Gossiping.M.1566979166.A.B3F)|
+|B企金|  |  |
+|  |  |[將來銀行2億半年燒光 股東看到薪資黑洞全嚇傻](https://moptt.tw/p/Gossiping.M.1566949564.A.35B)|
+|  |  |[因應貿易戰 張忠謀：台灣科技 最好自己做](https://moptt.tw/p/Gossiping.M.1567038597.A.42B)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |  |[理論上來說，人類是不是有機率直接穿牆？](https://moptt.tw/p/Gossiping.M.1566920295.A.59B)|
+|  |C2工程(硬)|  |
+|  |  |[「蚊」之色變？夢幻材料石墨烯讓你在蚊子前「神隱」](https://buzzorange.com/techorange/2019/08/28/mosquito-prevent-graphene/)|
+|  |C3工程(軟)|  |
+|  |  |[吳恩達── AI 大神首次來台演講， AI 領域的愛迪生或特斯拉會不會在台灣出現？](https://buzzorange.com/techorange/2019/08/27/interview-with-andrew-ng-about-whats-next-of-ai/)|
+|  |  |[YouTube 推出新功能，直接告訴你「這個頻道的後台是中國政府」](https://buzzorange.com/techorange/2019/08/29/youtube-showsource-of-film/?utm_source=TOLINEING_0829_youtube-showsource-of-film)|
+|  |C4生醫健康|  |
+|  |  |[台灣醫療獨步全球！「可逆轉研究」能拯救菜瓜布肺](https://moptt.tw/p/Gossiping.M.1567003275.A.403)|
+|  |  |[陽明大學把整座「加護病房」搬上雲端！ 偏鄉急重症多了黃金2小時](https://moptt.tw/p/Gossiping.M.1566966972.A.4B7)|
+|  |  |[全球首例！日本成功移植「iPS眼角膜」 40歲盲女恢復視力](https://moptt.tw/p/Gossiping.M.1567167990.A.7F2)|
+|D教育|  |  |
+|  |  |[教授叫我朋友碩博一起簽 何解?](https://moptt.tw/p/Gossiping.M.1567032290.A.813)|
+|E副刊|  |  |
+
+---
+<h2 id="20190826">9/2~9/8</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政社|  |  |
+|A1|國際新聞|  |
+|  |  |[法國宣布停止第四代反應爐計畫，稱「該項目已經死亡」](https://moptt.tw/p/Gossiping.M.1567500429.A.778)|
+|  |  |[重大讓步 傳林鄭月娥下午宣布撤回「逃犯條例」](https://moptt.tw/p/Gossiping.M.1567580216.A.47B)|
+|  |  |[日本科學家發現新種恐龍 命名為神威龍](https://moptt.tw/p/Gossiping.M.1567772494.A.9A3)|
+|  |  |[夢碎！離月球2.1公里失聯 印度登月任務失敗](https://moptt.tw/p/Gossiping.M.1567832191.A.74A)|
+|A2|美中新聞|  |
+|  |  |[中共嚴管台商企業出走 工具機業者向政府求援](https://moptt.tw/p/Gossiping.M.1567429506.A.929)|
+|  |  |[大陸各行業哀鴻遍野 明星企業紛紛破產](https://moptt.tw/p/Gossiping.M.1567649185.A.A4F)|
+|  |  |[重磅！中國人行宣布降準2碼 約釋放人民幣9000億元活水](https://moptt.tw/p/Gossiping.M.1567769884.A.66A)|
+|A3|臺灣新聞|  |
+|  |  |[9萬人洗腎創新高…年花健保近450億](https://moptt.tw/p/Gossiping.M.1567399663.A.39B)|
+|  |  |[北市空店潮惡化 七大商圈待租東區最糟](https://moptt.tw/p/Gossiping.M.1567408724.A.137)|
+|  |  |[封街辦活動後…東區空店潮仍惡化 92間店一年租不掉](https://moptt.tw/p/Gossiping.M.1567851451.A.044)|
+|  |  |[喬蛋成功？遠雄同意讓步…柯文哲積極協助大巨蛋拚復工！](https://moptt.tw/p/Gossiping.M.1567555345.A.15E)|
+|  |  |[勞動部調查 大專畢業有30萬人 薪水不到3萬元](https://moptt.tw/p/Gossiping.M.1567759262.A.6BB)|
 |B企金|  |  |
 |C科學|  |  |
 |  |C1物理|  |
+|  |  |[光速恆定 是真的嗎?](https://moptt.tw/p/Gossiping.M.1567662018.A.997)|
 |  |C2工程(硬)|  |
+|  |  |[今太陽光電再爆發 突破2GW超越一座核電廠](https://moptt.tw/p/Gossiping.M.1567438627.A.F20)|
+|  |  |[SpaceX 用貨櫃屋當廠房造火箭](https://moptt.tw/p/Gossiping.M.1567495939.A.287)|
 |  |C3工程(軟)|  |
 |  |C4生醫健康|  |
+|  |  |[金髮妹吸電子菸3年...肺部感染長大量「白色顆粒」！昏迷險喪命](https://moptt.tw/p/Gossiping.M.1567490172.A.5D2)|
 |D教育|  |  |
 |E副刊|  |  |
+|  |  |[中國是怎麼從禮儀之邦變世界公敵的？](https://www.ptt.cc/bbs/Gossiping/M.1567431040.A.AE0.html)|
+|  |  |[很早以前玉山的高度如何測量的](https://moptt.tw/p/Gossiping.M.1567877406.A.B33)|
+
+---
+<h2 id="20190826">9/9~9/15</h2>
