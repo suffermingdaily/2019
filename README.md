@@ -1126,3 +1126,54 @@ Weekly model
 |D教育|  |  |
 |E副刊|  |  |
 |  |  |[為何東亞國家幾乎都能成富國?](https://moptt.tw/p/Gossiping.M.1569016731.A.C2D)|
+
+---
+<h2 id="20190916">9/23~9/29</h2>
+
+|  |  |[「共」你的產？中共進駐百大民企引關注](https://moptt.tw/p/Gossiping.M.1569507744.A.D40)|
+|  |  |[翻臉了？李嘉誠高調向中共背景企業索債](https://moptt.tw/p/Gossiping.M.1569506777.A.46A)|
+|版|次版|連結|
+|--|--|--|
+|A政社|  |  |
+|A1|國際新聞|  |
+|  |  |[空汙太嚴重！「血色天空」籠罩印尼 居民嚇：分不清日夜](https://moptt.tw/p/Gossiping.M.1569212019.A.34D)|
+|  |  |[歐洲器官移植大會 中共活摘器官讓專家震驚](https://moptt.tw/p/Gossiping.M.1569236001.A.C26)|
+|  |  |[印尼學運集結中！數萬學生包圍國會的「反惡法大遊行」](https://moptt.tw/p/Gossiping.M.1569301176.A.8BA)|
+|  |  |[聯合國報告揭「人類再不減碳後果」 17億人先當浩劫犧牲者…2300年海平面升5m](https://moptt.tw/p/Gossiping.M.1569471816.A.83E)|
+|  |  |[南韓非洲豬瘟蔓延 撲殺9萬頭豬隻加強防疫](https://moptt.tw/p/Gossiping.M.1569761066.A.785)|
+|  |  |[9.29全球抗共 港警狂抓抗爭者](https://moptt.tw/p/Gossiping.M.1569761579.A.947)|
+|A2|美中新聞|  |
+|  |  |[新疆維族被移送的空拍影片](https://moptt.tw/p/Gossiping.M.1569170909.A.96A)|
+|  |  |[十一期間在北京如廁採實名制 民眾撻伐](https://moptt.tw/p/Gossiping.M.1569321350.A.C8B)|
+|  |  |[普欲取消中國開發中國家地位 澳洲總理認同](https://moptt.tw/p/Gossiping.M.1569327217.A.F62)|
+|  |  |[「共」你的產？中共進駐百大民企引關注](https://moptt.tw/p/Gossiping.M.1569507744.A.D40)|
+|  |  |[翻臉了？李嘉誠高調向中共背景企業索債](https://moptt.tw/p/Gossiping.M.1569506777.A.46A)|
+|  |  |[非洲豬瘟致中國損失萬億 專家:影響不亞於戰爭](https://moptt.tw/p/Gossiping.M.1569483851.A.5C5)|
+|  |  |[美軍航母「雷根號」突入南海！7艘中共軍艦包圍](https://moptt.tw/p/Gossiping.M.1569579776.A.462)|
+|  |  |[中國全力維穩豬肉價 大買美豬採購量創新高](https://moptt.tw/p/Gossiping.M.1569679216.A.B94)|
+|A3|臺灣新聞|  |
+|  |  |[台中72%山坡地 標高100m以下將解編](https://moptt.tw/p/Gossiping.M.1569196776.A.52E)|
+|  |  |[《台北法案》通過！ 美參議院外委會「助台鞏固外交」盼簽FTA](https://moptt.tw/p/Gossiping.M.1569459293.A.545)|
+|  |  |[高鐵南延拍版！554億左營案勝出](https://moptt.tw/p/Gossiping.M.1569580665.A.86C)|
+|  |  [台灣電影《返校》破紀錄 驚悚和「非政治」如何撬動年輕觀眾](https://moptt.tw/p/Gossiping.M.1569586137.A.9A9)|
+|  |  |[《返校》穩坐冠軍今飆破億！](https://moptt.tw/p/Gossiping.M.1569478342.A.8A9)|
+|  |  |[德學者:台灣民主強健 連失邦交國無礙運轉](https://moptt.tw/p/Gossiping.M.1569632506.A.915)|
+|B企金|  |  |
+|C科學|  |  |
+|  |C1物理|  |
+|  |  [NASA洩露之後秒刪的一份谷歌「量子霸權」論文引發熱議，到底什麼是「量子霸權」？](https://moptt.tw/p/Gossiping.M.1569374072.A.F98)|
+|  |C2工程(硬)|  |
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|  |  |[研究證實：愛喝酒的大腦會縮小](https://moptt.tw/p/Gossiping.M.1569231637.A.CEF)|
+|  |  |[研究：用塑膠茶包泡茶 吞下數十億顆塑膠微粒](https://moptt.tw/p/Gossiping.M.1569617163.A.BCF)|
+|D教育|  |  |
+|E副刊|  |  |
+|  |  |[川普意外現身氣候峰會 環保少女怒瞪幾噴火](https://moptt.tw/p/Gossiping.M.1569312859.A.F33)|
+|  |  |[檢舉達人！7個月賺67萬 換算月薪9.6萬](https://www.ptt.cc/bbs/Gossiping/M.1569411802.A.B8F.html)|
+|  |  [蜜蜂看到人類搶蜂蜜去吃在想什麼？](https://moptt.tw/p/Gossiping.M.1569454758.A.8FB)|
+|  |  |[章魚睡覺時全身輪流變色：牠夢到螃蟹吃到飽](https://moptt.tw/p/Gossiping.M.1569584544.A.198)|
+
+小編：這周大事很多
+
+---
