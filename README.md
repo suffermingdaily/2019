@@ -1128,7 +1128,7 @@ Weekly model
 |  |  |[為何東亞國家幾乎都能成富國?](https://moptt.tw/p/Gossiping.M.1569016731.A.C2D)|
 
 ---
-<h2 id="20190916">9/23~9/29</h2>
+<h2 id="20190923">9/23~9/29</h2>
 
 |  |  |[「共」你的產？中共進駐百大民企引關注](https://moptt.tw/p/Gossiping.M.1569507744.A.D40)|
 |  |  |[翻臉了？李嘉誠高調向中共背景企業索債](https://moptt.tw/p/Gossiping.M.1569506777.A.46A)|
