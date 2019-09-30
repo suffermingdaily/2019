@@ -1130,8 +1130,6 @@ Weekly model
 ---
 <h2 id="20190923">9/23~9/29</h2>
 
-|  |  |[「共」你的產？中共進駐百大民企引關注](https://moptt.tw/p/Gossiping.M.1569507744.A.D40)|
-|  |  |[翻臉了？李嘉誠高調向中共背景企業索債](https://moptt.tw/p/Gossiping.M.1569506777.A.46A)|
 |版|次版|連結|
 |--|--|--|
 |A政社|  |  |
@@ -1155,7 +1153,7 @@ Weekly model
 |  |  |[台中72%山坡地 標高100m以下將解編](https://moptt.tw/p/Gossiping.M.1569196776.A.52E)|
 |  |  |[《台北法案》通過！ 美參議院外委會「助台鞏固外交」盼簽FTA](https://moptt.tw/p/Gossiping.M.1569459293.A.545)|
 |  |  |[高鐵南延拍版！554億左營案勝出](https://moptt.tw/p/Gossiping.M.1569580665.A.86C)|
-|  |  [台灣電影《返校》破紀錄 驚悚和「非政治」如何撬動年輕觀眾](https://moptt.tw/p/Gossiping.M.1569586137.A.9A9)|
+|  |  |[台灣電影《返校》破紀錄 驚悚和「非政治」如何撬動年輕觀眾](https://moptt.tw/p/Gossiping.M.1569586137.A.9A9)|
 |  |  |[《返校》穩坐冠軍今飆破億！](https://moptt.tw/p/Gossiping.M.1569478342.A.8A9)|
 |  |  |[德學者:台灣民主強健 連失邦交國無礙運轉](https://moptt.tw/p/Gossiping.M.1569632506.A.915)|
 |B企金|  |  |
@@ -1171,7 +1169,7 @@ Weekly model
 |E副刊|  |  |
 |  |  |[川普意外現身氣候峰會 環保少女怒瞪幾噴火](https://moptt.tw/p/Gossiping.M.1569312859.A.F33)|
 |  |  |[檢舉達人！7個月賺67萬 換算月薪9.6萬](https://www.ptt.cc/bbs/Gossiping/M.1569411802.A.B8F.html)|
-|  |  [蜜蜂看到人類搶蜂蜜去吃在想什麼？](https://moptt.tw/p/Gossiping.M.1569454758.A.8FB)|
+|  |  |[蜜蜂看到人類搶蜂蜜去吃在想什麼？](https://moptt.tw/p/Gossiping.M.1569454758.A.8FB)|
 |  |  |[章魚睡覺時全身輪流變色：牠夢到螃蟹吃到飽](https://moptt.tw/p/Gossiping.M.1569584544.A.198)|
 
 小編：這周大事很多
