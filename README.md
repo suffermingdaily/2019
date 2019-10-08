@@ -40,6 +40,7 @@ Sufferming Weekly News
 |第32號|[9/9~9/15](#20190909)|
 |第33號|[9/16~9/22](#20190916)|
 |第34號|[9/23~9/29](#20190923)|
+|第35號|[9/30~10/6](#20190930)|
 
 
 > 讀報大綱：
@@ -1175,3 +1176,48 @@ Weekly model
 小編：這周大事很多
 
 ---
+
+<h2 id="20190930">9/30~10/6</h2>
+
+|版|次版|連結|
+|--|--|--|
+|A政社|  |  |
+|A1|國際新聞|  |
+|  |  |[英首相強生脫歐大限前關閉國會 英最高法院打臉](https://moptt.tw/p/Gossiping.M.1569327464.A.A16)|
+|  |  |[香港警察的專業克制 今天全世界都看到了](https://moptt.tw/p/Gossiping.M.1569769234.A.927)|
+|  |  |[最新！港十一抗爭衝突激烈 31受傷2命危](https://moptt.tw/p/Gossiping.M.1569938946.A.DE6)|
+|  |  |[緊急法嚇走外資 香港富豪:一覺醒來變難民](https://moptt.tw/p/Gossiping.M.1570282452.A.145)|
+|A2|美中新聞|  |
+|  |  |[鄂爾多斯盆地發現10億噸級大油田](https://moptt.tw/p/Gossiping.M.1569882959.A.1A4)|
+|  |  |[中共外債高達2萬億美元 外匯儲備幾乎為零](https://moptt.tw/p/Gossiping.M.1569849655.A.B8D)|
+|  |  |[中國商務部長認了 貿易戰重創中企](https://moptt.tw/p/Gossiping.M.1569910326.A.4E4)|
+|  |  |[政治任務失敗 中共十一閱兵遭遇嚴重陰霾](https://moptt.tw/p/Gossiping.M.1569941272.A.B9F)|
+|  |  |[陸貪官張琦落馬！家藏13.5噸黃金](https://moptt.tw/p/Gossiping.M.1570018125.A.F1A)|
+|  |  |[習近平：能夠打敗中共的只有自己 沒有第二人](https://moptt.tw/p/Gossiping.M.1570114131.A.A43)|
+|  |  |[港「禁蒙面規例」中國國務院:堅決支持](https://moptt.tw/p/Gossiping.M.1570249252.A.4F8)|
+|  |  |[中國粗估豬肉要漲到2021年](https://moptt.tw/p/Gossiping.M.1570284457.A.17D)|
+|  |  |[北京理工申請「禁翻牆」專利 中國網友翻牆狂罵：畜牲](https://moptt.tw/p/Gossiping.M.1570332282.A.177)|
+|A3|臺灣新聞|  |
+|  |  |[宜蘭南方澳跨港大橋驚傳倒塌 20多人受傷](https://moptt.tw/p/Gossiping.M.1569895688.A.0F4)|
+|  |  |[AIT：台灣有望成為數位世界的大腦](https://moptt.tw/p/Gossiping.M.1569994730.A.3C9)|
+|  |  |[德國台灣建交請願案 今通過5萬連署門檻](https://moptt.tw/p/Gossiping.M.1570104769.A.5B4)|
+|  |  |[維基百科編輯戰 台灣、香港議題遭反覆修](https://moptt.tw/p/Gossiping.M.1570250196.A.11B)|
+|  |  |[柯P為幫違規「特種行業」就地合法](https://moptt.tw/p/Gossiping.M.1570299869.A.3E8)|
+|B企金|  |  |
+|  |  |[黑石集團CEO：投資人應慎防這4大隱憂](https://moptt.tw/p/Gossiping.M.1569982736.A.C33)|
+|  |  |[百度瀏覽器正式停止服務 高管現離職潮](https://moptt.tw/p/Gossiping.M.1570018849.A.C1E)|
+|  |  |[台灣四大電子巨頭正準備撤離大陸](https://moptt.tw/p/Gossiping.M.1570361993.A.12A)|
+|C科學|  |  |
+|  |C1物理|  |
+|  |C2工程(硬)|  |
+|  |  |[「海洋吸塵器」成功了！小至一公厘的海洋垃圾也能收集](https://moptt.tw/p/Gossiping.M.1570076274.A.E47)|
+|  |  |[NASA 與SpaceX 要合作去攔截小行星啦](https://moptt.tw/p/Gossiping.M.1570183321.A.D7F)|
+|  |C3工程(軟)|  |
+|  |C4生醫健康|  |
+|D教育|  |  |
+|E副刊|  |  |
+|  |  |[一條鯨魚抵幾千棵樹 緩解暖化天然神器 「護鯨就是固碳」](https://moptt.tw/p/Gossiping.M.1570031636.A.11E)|
+|  |  |[常玉人生終極之作 「曲腿裸女」8億破畫家世界紀錄](https://moptt.tw/p/Gossiping.M.1570320463.A.E78)|
+
+
+
